@@ -3,13 +3,13 @@
 ![image](https://github.com/Oluwaseun52/CustomerChurnPredictionUsingMachineLearning/assets/137726038/3a9c9a34-e931-4e5c-baf9-1ab680e23927)
 
 
-## PROBLEM STATEMENT:
+## PROBLEM STATEMENT
 ConnectTel Telecom Company is confronted with the critical challenge of customer churn, impacting business sustainability and growth. Current customer retention strategies have proven ineffective, leading to the loss of valuable customers to competitors.
 
-## MY ROLE:
+## MY ROLE
 I was contacted to build a machine learning model that will predict customer churn. Leveraging advanced analytics and machine learning techniques on available customer data, the goal is to accurately forecast customer churn, allowing for targeted retention initiatives.
 
-## OBJECTIVES:
+## OBJECTIVES
 - Develop a robust customer churn prediction system.
 - Enhance customer loyalty and reduce customer attrition.
 - Maintain a competitive edge in the telecommunications industry.
